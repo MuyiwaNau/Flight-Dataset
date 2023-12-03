@@ -51,3 +51,4 @@ This dataset comprises diverse parameters relating to airline operations on a gl
 ![image](https://github.com/MuyiwaNau/Flight-EDA/assets/34709932/96e329b6-012c-46b8-b4c8-94982021df9b)
 
 
+![image](https://github.com/MuyiwaNau/Flight-EDA/assets/34709932/a7dfa8ad-336c-4aef-9199-b72a78dca656)
